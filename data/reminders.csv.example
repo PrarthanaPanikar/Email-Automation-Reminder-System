@@ -1,0 +1,11 @@
+contact_email,reminder_title,reminder_date,template_name
+john.doe@company.com,Team Meeting,2024-01-15 10:00,meeting_reminder
+jane.smith@company.com,Payment Due,2024-01-20 09:00,payment_due
+mike.j@company.com,Project Review,2024-01-18 14:00,meeting_reminder
+sarah.w@company.com,Quarterly Report,2024-01-25 16:00,payment_due
+david.b@company.com,Training Session,2024-01-22 11:00,meeting_reminder
+emily.d@company.com,Code Review,2024-01-19 15:00,meeting_reminder
+robert.w@company.com,Sales Target,2024-01-30 09:00,payment_due
+lisa.a@company.com,Performance Review,2024-01-28 13:00,meeting_reminder
+james.t@company.com,Campaign Launch,2024-01-26 10:00,meeting_reminder
+maria.g@company.com,Budget Review,2024-01-24 14:00,payment_due

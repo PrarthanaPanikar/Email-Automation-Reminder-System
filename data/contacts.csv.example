@@ -1,0 +1,11 @@
+name,email,phone,department
+John Doe,john.doe@company.com,+1234567890,Sales
+Jane Smith,jane.smith@company.com,+0987654321,HR
+Mike Johnson,mike.j@company.com,+1122334455,Marketing
+Sarah Williams,sarah.w@company.com,+5544332211,Finance
+David Brown,david.b@company.com,+9988776655,Operations
+Emily Davis,emily.d@company.com,+1234567890,Engineering
+Robert Wilson,robert.w@company.com,+0987654321,Sales
+Lisa Anderson,lisa.a@company.com,+1122334455,HR
+James Taylor,james.t@company.com,+5544332211,Marketing
+Maria Garcia,maria.g@company.com,+9988776655,Finance
